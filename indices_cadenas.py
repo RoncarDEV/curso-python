@@ -5,3 +5,6 @@ print(cadena1)
 
 primer_caracter = cadena1[0]
 print(primer_caracter)
+
+ultimo_caracter = cadena1[0:9]
+print(ultimo_caracter)
